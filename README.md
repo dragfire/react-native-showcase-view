@@ -2,7 +2,7 @@
 Highlight the best bits of your app, describe the functionalities to your users quickly (iOS/Android).
 
 <br/>
-<img src="Example/demo.gif" width="300" height="500"/>
+<img src="Example/demo.gif" width="280" height="500"/>
 
 ##Installation:
 `Will publish as soon as it is more stable`
