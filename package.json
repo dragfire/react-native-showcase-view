@@ -1,0 +1,23 @@
+{
+  "name": "react-native-showcase-view",
+  "version": "1.0.0",
+  "description": "Highlight the best bits of your app, describe the functionalities to your users quickly. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragfire/react-native-showcase-view.git"
+  },
+  "keywords": [
+    "react-native",
+    "showcase"
+  ],
+  "author": "dragfire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dragfire/react-native-showcase-view/issues"
+  },
+  "homepage": "https://github.com/dragfire/react-native-showcase-view#readme"
+}
