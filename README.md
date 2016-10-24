@@ -1,4 +1,4 @@
-# react-native-show-case-view
+# react-native-showcase-view
 Highlight the best bits of your app, describe the functionalities to your users quickly (iOS/Android).
 
 <br/>
